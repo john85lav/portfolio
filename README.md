@@ -57,6 +57,7 @@
 <p>
 <img src="images/jenxyvpn-connected.png" width="200" alt="Подключение">
 <img src="images/jenxyvpn-new-key.png" width="200" alt="Добавление ключа">
+<img src="images/jenxyvpn-settings.png" width="200" alt="Настройки: тема, 18 языков">
 </p>
 
 Собственный VPN-клиент под iOS, macOS, Android и Windows с тремя протоколами
